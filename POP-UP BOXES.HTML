@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Pop-Up Boxes </title>
+<script type="text/JavaScript">
+
+function show_alert()
+{alert ("I warned you.");}
+
+function show_prompt()
+{var name = prompt("Please enter your name:")
+if (name!=null && name!="")
+{document.write("Welcome" + name+ "! Please come in!");}}
+
+function show_confirm()
+{var ans=confirm("Do you want to proceed?");
+if (ans==true)
+{document.write("You have entered stage 2");}
+else{document.write("You will remain at stage 1");}}
+
+</script>
+</head>
+<body>
+
+<input type="button" onclick="show_alert()" value="DON'T CLICK THIS! I REPEAT, DON'T CLICK THIS!"/>
+
+<br/> </br>
+
+<input type="button" onclick="show_prompt()" value="Click here to continue"/>
+
+<br/> </br>
+
+<input type="button" onclick="show_confirm()" value="Click here to start"/>
+
+</body>
+</html>

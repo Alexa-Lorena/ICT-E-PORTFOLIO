@@ -1,0 +1,52 @@
+<html>
+<head>
+<title> Conditional Statements </title>
+<head>
+<script type="text/JavaScript">
+
+function check()
+{if (document.example.answer.value=="The Iliad & Odyssey")
+{document.write("Myrmidons! My brothers of the sword! I would rather fight beside you than any army of thousands!");}
+else if (document.example.answer.value=="")
+{document.write("Sing, Goddess, of the wrath of Achilles");}
+else
+{document.write("We men are wretched things");}}
+
+function bookcheck()
+{var book = document.formbook.cmbbook.value;
+switch (book)
+{case "1": alert("Homer");
+break;
+case "2": alert("Quintus Smyrnaeus");
+break;
+case "3": alert("Pseudo-Apollodorus");
+break;
+case "4": alert("Ovid");
+break;
+default: alert("Writer Undetermined");}}
+</script>
+</head>
+
+<body>
+
+<p>What is the title of this book?</p>
+<form name="example">
+<input type="text" name="answer" value="">
+<input type="button" name="answerbutton" value="SUBMIT" onClick="check()">
+</form>
+
+<p>Select a book below to find the name of the author:</p>
+<form name="formbook">
+<select name="cmbbook">
+<option value="">Pick a book!</option>
+<option value="1">The Iliad & Odyssey</option>
+<option value="2">Posthomerica</option>
+<option value="3">Bibliotheca</option>
+<option value="4">Metamorphoses</option>
+</select>
+<input type="button" name="combo" value="SUBMIT" onclick="bookcheck()">
+</form>
+
+</script>
+</body>
+</html>

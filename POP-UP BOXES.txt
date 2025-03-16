@@ -1,0 +1,13 @@
+<html>
+<head>
+<title> Pop-Up Boxes </title>
+</head>
+<script type="text/JavaScript">
+document.write("This is just a placeholder")
+</script>
+</head>
+
+<body>
+Placeholder
+</body>
+</html>
