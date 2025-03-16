@@ -1,0 +1,91 @@
+<html>
+<head>
+<title> Loops </title>
+</head>
+
+<body>
+
+<script type="text/javascript">
+var x;
+for (x=0;x<=6;x++) 
+{
+document.write(++x);
+document.write("<br/>");
+}
+document.write("KABOOM!");
+</script>
+
+<br/> <br/>
+
+<script type="text/javascript">
+var x=0;
+while(x<5) 
+{
+document.write(x);
+document.write("<br/>");
+x++;
+}
+document.write("KABOOM!");
+</script>
+
+<br/> <br/>
+
+<script type="text/javascript">
+var x=0;
+do
+{
+document.write(x);
+document.write("<br/>");
+x++;
+}
+while(x<7) 
+document.write("KABOOM!");
+</script>
+
+<br/> <br/>
+
+<script type="text/javascript">
+var x;
+var myFood=new Array();
+myFood[0]="Fries";
+myFood[1]="Mashed Potatoes";
+myFood[2]="Potato Waves";
+myFood[3]="Normal Fried Potato Slices";
+for (x in myFood)
+{
+document.write(myFood[x]+"<br/>");
+}
+</script>
+
+<br/> <br/>
+
+<script type="text/javascript">
+var i=0;
+for(i=0;i<=7;i++)
+{
+if(i==4)
+{
+break;
+}
+document.write("The number is" + i);
+document.write("<br/>");
+}
+</script>
+
+<br/> <br/>
+
+<script type="text/javascript">
+var i=0;
+for(i=0;i<=12;i++)
+{
+if(i==5)
+{
+continue;
+}
+document.write("The number is" + i);
+document.write("<br/>");
+}
+</script>
+
+</body>
+</html>
