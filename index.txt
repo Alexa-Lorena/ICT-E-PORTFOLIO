@@ -1,0 +1,252 @@
+
+<html>
+<head>
+<title> ICT PORTFOLIO </title>
+<link rel="stylesheet" href="index.css" type="text/css">
+
+<script type="text/Javascript">
+
+function check()
+{if (document.example.answer.value=="Good")
+{document.write("Yay! Thank you for your feedback!");}
+else if (document.example.answer.value=="")
+{document.write("You didn't answer the question.");}
+else
+{document.write("Noted. Thank you for your feedback.");}}
+
+</script>
+</head>
+
+<body background="TNMBG2.jpg">
+
+<h1> ICT E-Portfolio </h1>
+<hr>
+<h3> Lorena, Alexa | 9 - Fairness | ICT 9 </h3>
+
+<table border="2px" bordercolor="#ff0554" align="center" bgcolor="#FFFFFF" cellpadding="10px">
+<tr>
+<td align="center"> <strong> Table of Contents </strong> </td>
+</tr>
+<tr>
+<td>
+<ol type="A">
+<li> About Me </li>
+<li> Events </li>
+<li> Q1 </li>
+<li> Q2 </li>
+<li> Q3 </li>
+<li> Q4 </li>
+<li> Reflection </li>
+</ol>
+</td>
+</tr>
+</table>
+
+<br>
+
+<hr>
+
+<h3> A. About Me </h3>
+<img class="intro" src="PILLOW.webp" alt="Pillow from BFDI being blissfully unaware of the fire raging in the background.">
+<p> Good day, everyone. I'll make this introduction brief, as I've already done it...what, twice now? So, I'm going to focus on everything that's happened thus far instead of re-stating my name, age, and personal information.
+<br> <br>
+First things first, I'm exhausted. I'm not even sugarcoating it at this point. These past few weeks have been physically and mentally draining. I haven't had a proper break in who-knows-how-long. Despite this, I'm still going. I still wake up every morning. I still face the day. No matter how hard things get, I will persist. I have a life to live. I have people who need me. I have a purpose I must fulfill. </p>
+
+<br> <br>
+
+<img class="intro2" src="FANDOMS.jpg" alt="RAAAAAAAAAAAAAAAAHHHHHH I love my fandoms!!">
+<p> Second, my hyperfixations have evolved. My interest in object shows has been thriving, suprisingly. Since BFDI episodes have been consistently releasing from late 2024-onwards, I'm getting my daily dose of silly little objects competing in reality shows. I've also grown to love other shows such as The Nightly Manor, ONE, Paper Puppets Take 2, etc. For Roblox, on the other hand, I can never seem to escape the Dead-by-Daylight inspired games. I haven't been able to play, but I've tried out Forsaken and absolutely fell in love with the characters. There's PIZZA MAN, dude! How could I NOT love Elliot?
+<br> <br>
+
+<img class="intro" src="TELORANIA TIMELINE.jpg" alt="RAAAAAAAAAAAAAAAAHHHHHH I love my fandoms!!">
+I'm still struggling with my writing. I haven't been able to write any proper works due to the sheer amount of schoolwork, but I've managed to finally develop the "Telorania Cinematic Universe," as they call it (the name's unofficial, please don't hunt me, Marvel). See, I've been making worlds, characters, and storylines for the past few years since the Pandemic, and they've grown suprisingly well with time. I've been watching story writing commentaries for a while, and they've been helping make my characters and settings feel more natural, human, if I will.
+</p>
+
+<video width="380" height="200" controls>
+<source src="OOC.mp4" type="video/mp4">
+</video>
+<p> And finally, we transition into the actual portfolio. This was admittedly pretty rushed, but here we are, getting it done on time (hopefully)! If you've seen our to-do lists, you would know all of Grade 9 is currently tweaking because of the piling requirements. I'm literally cramming as we speak. Soooooooooooooooo, without further ado, here's the full TLE-ICT E-Portfolio! </p>
+
+<br><br>
+
+<hr>
+
+<h3> B. Events </h3>
+
+<h4> 1. English Performance Task (Conditionals) </h4>
+<video width="520" height="440" controls>
+<source src="ENGLISH.mp4" type="video/mp4">
+</video>
+
+<h4> 2. MAPEH Music Video </h4>
+<a href="https://drive.google.com/drive/folders/1noFL0cz631m7sVPCFbSHlcEgXy-7HbPv?usp=sharing"> Click here to access the full video! </a>
+
+<h4> 3. AP Historical Icon </h4>
+<img src="AP1.jpg" alt="Working together to make Izza's costume!">
+<img src="AP2.jpg" alt="Working together to make Izza's costume!">
+<img src="AP3.jpg" alt="Working together to make Izza's costume!">
+<img src="AP4.jpg" alt="Working together to make Izza's costume!">
+
+<br><br>
+
+<h4> 4. AP Oratorical Competition </h4>
+<img class="ora" src="ORA1.jpg" alt="Working together to make Izza's costume!">
+<img class="ora" src="ORA2.jpg" alt="Working together to make Izza's costume!">
+
+<h4> 5. Book Character Contest </h4>
+<img class="ora" src="COSPLAY.jpg" alt="Working together to make Izza's costume!">
+
+<h4> 6. Mr. and Mrs. Booklandia </h4>
+<img src="BOOKLANDIA1.jpg" alt="Working together to make Izza's costume!">
+<img src="BOOKLANDIA2.jpg" alt="Working together to make Izza's costume!">
+
+
+<h4> 7. Persona Articulata </h4>
+<img class="ora" src="PERSONA1.jpg" alt="Working together to make Izza's costume!">
+<img class="ora" src="PERSONA2.jpg" alt="Working together to make Izza's costume!">
+
+<h4> 8. Battle of the Bands </h4>
+<video width="520" height="440" controls>
+<source src="BOTB.mp4" type="video/mp4">
+</video>
+
+<h4> 9. English One-Act Play </h4>
+<video width="520" height="440" controls>
+<source src="ENGPLAYPRACTICE.mp4" type="video/mp4">
+</video>
+
+<br><br>
+
+<hr>
+<h3> C. Q1 </h3>
+<h4> XHTML </h4>
+<img  class="ora" src="XHTML code.png" alt="XHTML code">
+<img  class="ora" src="XHTML output.png" alt="XHTML output">
+
+<br> <br> 
+
+<h4> Lists and Tables </h4>
+<img  class="ora" src="Lists and Tables codes 1.png" alt="Lists and Tables code">
+<img  class="ora" src="Lists and Tables codes 2.png" alt="Lists and Tables code">
+<img  class="ora" src="Lists and Tables output.png" alt="Lists and Tables output">
+
+<br> <br> 
+
+<h4> Forms </h4>
+<img  class="ora" src="Forms code.png" alt="Forms code">
+<img  class="ora" src="Forms output.png" alt="Forms output">
+
+<br> <br> 
+
+<h4> Hyperlinks </h4>
+<img  class="ora" src="Hyperlinks code.png" alt="Hyperlinks code">
+<img  class="ora" src="Hyperlinks output.png" alt="Hyperlinks output">
+
+<br> <br> 
+
+<h4> CSS </h4>
+<img  class="ora" src="CSS code.png" alt="CSS code">
+<img  class="ora" src="CSS output.png" alt="CSS output">
+
+<br><br>
+
+<hr>
+<h3> D. Q2 </h3>
+
+<h4> CSS (Official Introduction) </h4>
+<img  class="ora" src="L1&2 code.png" alt="CSS code">
+<img  class="yeh" src="L1&2 output.png" alt="CSS output">
+<img  class="yeh" src="L1&2 css.png" alt="CSS css">
+
+<h4> Class and ID Selectors </h4>
+<img  class="ora" src="L3 code.png" alt="L3 code">
+<img  class="ora" src="L3 output.png" alt="L3 output">
+<img  class="yeh" src="L3 css.png" alt="L3 css">
+
+<h4> Span and Div Tags </h4>
+<img  class="ora" src="L4&5 code.png" alt="L4&5 code">
+<img  class="ora" src="L4&5 output.png" alt="L4&5 output">
+<img  class="yeh" src="L4&5 css.png" alt="L4&5 css">
+
+<h4> Typography </h4>
+<img  class="ora" src="L6 code.png" alt="L6 code">
+<img  class="ora" src="L6 output.png" alt="L6 output">
+<img  class="yeh" src="L6 css.png" alt="L6 css">
+
+<h4> Formatting Layout </h4>
+<img  class="ora" src="L7 code.png" alt="L7 code">
+<img  class="ora" src="L7 output.png" alt="L7 output">
+<img  class="yeh" src="L7 css.png" alt="L7 css">
+
+<br><br>
+
+<hr>
+<h3> E. Q3 </h3>
+
+<h4> Basic JavaScript </h4>
+<img  class="ora" src="FIRSTJAVA.png" alt="Java code">
+
+<h4> Simple Concatenation and Operators </h4>
+<img  class="ora" src="Q3LESSONS456.png" alt="Java code">
+<img  class="ora" src="Q3LESSONS456OUTPUT.png" alt="Java output">
+
+<h4> Concatenation with Table </h4>
+<img  class="ora" src="Q3LESSONS4562.png" alt="Java code">
+<img  class="ora" src="Q3LESSONS4562OUTPUT.png" alt="Java output">
+
+<h4> Alert pop-up button and Return function </h4>
+<img  class="ora" src="Q3LESSONS45623.png" alt="Java code">
+<img  class="ora" src="Q3LESSONS45623OUTPUT.png" alt="Java output">
+
+<br><br>
+
+<hr>
+
+<h3> F. Q4 </h3>
+
+<h4> Events </h4>
+<video width="600" height="300" controls>
+<source src="Events.mp4" type="video/mp4">
+</video>
+
+<h4> Pop-Up Boxes </h4>
+<video width="600" height="300" controls>
+<source src="Pop-up.mp4" type="video/mp4">
+</video>
+
+<h4> Conditional Statements </h4>
+<video width="600" height="300" controls>
+<source src="Conditionals.mp4" type="video/mp4">
+</video>
+
+<h4> Functions </h4>
+<video width="600" height="300" controls>
+<source src="Functions.mp4" type="video/mp4">
+</video>
+
+<h4> Loops </h4>
+<video width="600" height="300" controls>
+<source src="Loops.mp4" type="video/mp4">
+</video>
+
+<br><br>
+
+<hr>
+
+<h3> G. Reflection </h3>
+
+<p> I'll be frank here. I did not enjoy JavaScript. I was definitely more optimistic last quarter due to the success that was CSS, but I've realized I don't really like technical-heavy things all too well. Sure, I may be a news writer for Standard Press, but at least I knew how it worked and had sufficient experience for it. I jumped into JavaScript completely blind and never got the chance to bring out my full potential on it, especially with how hectic things have been, and, honestly, I don't think I want to. I knew I was never really one for all this internet-coding stuff anyways.
+
+<br/> <br/>
+
+I wished I could've done better, with more than just ICT. I know I'm enough, but I know I can do so much more if I just tried hard enough. </p>
+
+<h3>Is my portfolio good or bad? :) <br/> (Note: Please use proper capitalization for your responses ^^)</h3>
+<form align="center" name="example">
+<input type="text" name="answer" value="">
+<input type="button" name="answerbutton" value="SUBMIT" onClick="check()">
+</form>
+
+
+</body>
+</html>
